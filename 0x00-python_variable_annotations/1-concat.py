@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Definition of concat, a function that returns the 
+Definition of concat, a function that returns the concatenation of the two
+string argument passed
 """
 
 
