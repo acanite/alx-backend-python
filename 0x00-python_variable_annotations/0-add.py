@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Definition of add which returns the sum of the two float argument passed
 """
